@@ -19,7 +19,6 @@ Thanks to https://github.com/hooshvare/hooshvare.github.io I built a fa-bert mod
        I_PER       1.00      0.25      0.40         4
        I_TIM       0.60      0.75      0.67         4
            O       0.67      1.00      0.80         4
-
+           
     accuracy                           0.61        62
-   macro avg       0.72      0.60      0.57        62
-weighted avg       0.72      0.61      0.58        62
+
